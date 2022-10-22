@@ -6,4 +6,4 @@ pagina para crear recetas.
 - Añadir codigo HTML
 - Añadir imagenes y link
 ## imagenes
-![](./imagen/principal.png)
+![](/imagen/Principal.png)
